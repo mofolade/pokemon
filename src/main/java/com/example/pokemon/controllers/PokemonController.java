@@ -3,13 +3,18 @@ package com.example.pokemon.controllers;
 import com.example.pokemon.entities.Pokemon;
 import com.example.pokemon.services.PokemonService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@SpringBootApplication
+@Controller
 @RestController
 @RequestMapping("/api/v1/pokemons")
 public class PokemonController {
@@ -72,6 +77,19 @@ public class PokemonController {
         else if (name != null){
             pokemonService.deleteByName(name);
         }
+    }
+
+    @DeleteMapping("/all/")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void deleteAllPokemon() {
+        pokemonService.deleteAll();
+    }
+
+    @RequestMapping(value = "/index")
+    public String pokemons(Model model){
+        List<Pokemon> pokemons =  pokemonService.getAllPokemon();
+        model.addAttribute("pokemons",pokemons);
+        return "index";
     }
 
 }

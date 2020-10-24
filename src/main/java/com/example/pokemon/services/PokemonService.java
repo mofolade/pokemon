@@ -105,4 +105,14 @@ public class PokemonService {
         pokemonRepository.deleteById(pokemon.getId());
         System.out.println("Deleted");
     }
+
+    @CacheEvict(value = "pokemonCache", allEntries = true)
+    public void deleteAll() {
+        pokemonRepository.deleteAll();
+    }
+
+    public List<Pokemon> getAllPokemon(){
+        var pokemons = pokemonRepository.findAll();
+        return pokemons;
+    }
 }
