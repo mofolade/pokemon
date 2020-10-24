@@ -4,6 +4,7 @@ import com.example.pokemon.entities.User;
 import com.example.pokemon.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
@@ -13,8 +14,8 @@ import java.util.List;
 public class UserService {
     @Autowired
     private UserRepository userRepository;
-    /*@Autowired
-    private PasswordEncoder passwordEncoder;*/
+    @Autowired
+    private PasswordEncoder passwordEncoder;
 
     public List<User> findAll(String username) {
         if(username != null) {
@@ -38,7 +39,7 @@ public class UserService {
         /*if(StringUtils.isEmpty(user.getPassword())) { // user.getPassword() == null || user.getPassword().isEmpty()
             throw new ResponseStatusException(HttpStatus.I_AM_A_TEAPOT, "I need a password!!");
         }*/
-        //user.setPassword(passwordEncoder.encode(user.getPassword()));
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
         return userRepository.save(user);
     }
 
@@ -47,7 +48,7 @@ public class UserService {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, String.format("Could not find the user by id %s.", id));
         }
         user.setId(id);
-        //user.setPassword(passwordEncoder.encode(user.getPassword()));
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
         userRepository.save(user);
     }
 

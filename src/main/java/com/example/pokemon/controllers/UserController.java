@@ -20,8 +20,6 @@ public class UserController {
     //@Secured("ROLE_USER")
     public ResponseEntity<List<User>> findAllUsers(@RequestParam(required = false) String username) {
         var users = userService.findAll(username);
-        // return new ResponseEntity<>(users, HttpStatus.OK); // 200
-        // return ResponseEntity.status(HttpStatus.OK);
         return ResponseEntity.ok(users);
     }
 
@@ -34,7 +32,6 @@ public class UserController {
     //@Secured("ROLE_ADMIN")
     @PostMapping
     public ResponseEntity<User> saveUser(@Validated @RequestBody User user) {
-        System.out.println("save");
         return ResponseEntity.ok(userService.save(user));
     }
 
