@@ -1,7 +1,5 @@
 package com.example.pokemon.controllers;
 
-import com.example.pokemon.dto.PokemonBaseDto;
-import com.example.pokemon.dto.PokemonListDto;
 import com.example.pokemon.entities.Pokemon;
 import com.example.pokemon.services.PokemonService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,9 +23,24 @@ public class PokemonController {
         return ResponseEntity.ok(pokemon);
     }
 
-    public ResponseEntity<List<Pokemon>> findPokemonsByName(String name) {
-        var pokemon = pokemonService.findAll(name);
+    @GetMapping("/search")
+    public ResponseEntity<List<Pokemon>> findByName(@RequestParam String name) {
+        var pokemon = pokemonService.findByUserNameRegex(name);
         return ResponseEntity.ok(pokemon);
+    }
+
+    @GetMapping("/filter")
+    public ResponseEntity<List<Pokemon>> findByAttributes(@RequestParam(name = "name") String name,
+                                                          @RequestParam(name = "baseexperience")  int baseexperience,
+                                                          @RequestParam(name = "height")  int height,
+                                                          @RequestParam(name = "weight")  int weight) {
+        var pokemon = pokemonService.findByUserAttributes(name,baseexperience,height,weight);
+        return ResponseEntity.ok(pokemon);
+    }
+
+    public void findPokemonsByName(String name) {
+        var pokemon = pokemonService.findAll(name);
+        ResponseEntity.ok(pokemon);
     }
 
     @GetMapping("/list")
@@ -49,10 +62,16 @@ public class PokemonController {
         pokemonService.update(id, pokemon);
     }
 
-    @DeleteMapping("/{id}")
+    @DeleteMapping
     @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void deletePokemon(@PathVariable String id) {
-        pokemonService.delete(id);
+    public void deletePokemon(@RequestParam(name = "id", required = false)  String id,
+                              @RequestParam(name = "name", required = false)  String name) {
+        if(id!= null) {
+            pokemonService.deleteById(id);
+        }
+        else if (name != null){
+            pokemonService.deleteByName(name);
+        }
     }
 
 }

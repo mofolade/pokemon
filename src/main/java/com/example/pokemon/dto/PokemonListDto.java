@@ -13,26 +13,26 @@ public class PokemonListDto {
 
     @JsonProperty("results")
     @JsonDeserialize(as=ArrayList.class, contentAs= PokemonBaseDto.class)
-    private List<PokemonBaseDto> modelsTwo;
+    private List<PokemonBaseDto> pokemonsNameUrl;
 
     public PokemonListDto() {
     }
 
-    public PokemonListDto(List<PokemonBaseDto> modelsTwo) {
-        this.modelsTwo = modelsTwo;
+    public PokemonListDto(List<PokemonBaseDto> pokemonsNameUrl) {
+        this.pokemonsNameUrl = pokemonsNameUrl;
     }
 
-    public PokemonListDto(String nextUrl, List<PokemonBaseDto> modelsTwo) {
+    public PokemonListDto(String nextUrl, List<PokemonBaseDto> pokemonsNameUrl) {
         this.nextUrl = nextUrl;
-        this.modelsTwo = modelsTwo;
+        this.pokemonsNameUrl = pokemonsNameUrl;
     }
 
     public List<PokemonBaseDto> getPokemon() {
-        return modelsTwo;
+        return pokemonsNameUrl;
     }
 
-    public void setPokemon(List<PokemonBaseDto> modelsTwo) {
-        this.modelsTwo = modelsTwo;
+    public void setPokemon(List<PokemonBaseDto> pokemonsNameUrl) {
+        this.pokemonsNameUrl = pokemonsNameUrl;
     }
 
     public String getNextUrl() {

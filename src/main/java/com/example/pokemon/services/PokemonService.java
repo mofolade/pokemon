@@ -46,6 +46,18 @@ public class PokemonService {
         return pokemons;
     }
 
+    @Cacheable(value = "pokemonCache")
+    public List<Pokemon> findByUserNameRegex(String name) {
+        var pokemons = pokemonRepository.findByNameRegex(name);
+        return pokemons;
+    }
+
+    @Cacheable(value = "pokemonCache")
+    public List<Pokemon> findByUserAttributes(String name,int baseexperience,int height,int weight) {
+        var pokemons = pokemonRepository.findByAttributes(name,baseexperience,height,weight);
+        return pokemons;
+    }
+
     public ArrayList<String> getList(int offset) {
         PokemonListDto pokemonList  = pokemonConsumerService.pokemonList(offset);
         ArrayList<String> pokemonsArray = new ArrayList<String>();
@@ -76,10 +88,21 @@ public class PokemonService {
     }
 
     @CacheEvict(value = "pokemonCache", allEntries = true)
-    public void delete(String id) {
+    public void deleteById(String id) {
         if(!pokemonRepository.existsById(id)) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Kunde ej hitta pokemon");
         }
         pokemonRepository.deleteById(id);
+        System.out.println("Deleted");
+    }
+
+    @CacheEvict(value = "pokemonCache", allEntries = true)
+    public void deleteByName(String name) {
+        Pokemon pokemon = pokemonRepository.findByName(name);
+        if(!pokemonRepository.existsById(pokemon.getId())){
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Kunde ej hitta pokemon");
+        }
+        pokemonRepository.deleteById(pokemon.getId());
+        System.out.println("Deleted");
     }
 }
