@@ -3,6 +3,7 @@ package com.example.pokemon.services;
 import com.example.pokemon.dto.PokemonBaseDto;
 import com.example.pokemon.dto.PokemonListDto;
 import com.example.pokemon.entities.Pokemon;
+import com.example.pokemon.mappers.PokemonMappers;
 import com.example.pokemon.repository.PokemonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheEvict;
@@ -23,6 +24,8 @@ public class PokemonService {
     @Autowired
     private PokemonConsumerService pokemonConsumerService;
     //private Object pokemon;
+    @Autowired
+    private PokemonMappers pokemonMappers;
 
     @Cacheable(value = "pokemonCache", key = "#name")
     public List<Pokemon> findAll(String name) {
@@ -35,11 +38,11 @@ public class PokemonService {
             //System.out.println("new pokemon");
             var pokemonDto = pokemonConsumerService.search(name);
             if(pokemonDto != null){
-                var pokemon = new Pokemon(pokemonDto.getName(), pokemonDto.getBase_experience(),
+                /*var pokemon = new Pokemon(pokemonDto.getName(), pokemonDto.getBase_experience(),
                         pokemonDto.getHeight(),pokemonDto.getWeight(), pokemonDto.getGame_indices(),
                         pokemonDto.getAbilities(),pokemonDto.getLocation_area_encounters(),
-                        pokemonDto.getTypes());
-
+                        pokemonDto.getTypes());*/
+                var pokemon = pokemonMappers.pokemonDtoToMovie(pokemonDto);
                 pokemons.add(this.save(pokemon));
             }
         }

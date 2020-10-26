@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.annotation.Secured;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -23,6 +24,7 @@ public class PokemonController {
     private PokemonService pokemonService;
 
     @GetMapping
+    @Secured("ROLE_ADMIN")
     public ResponseEntity<List<Pokemon>> findPokemons(@RequestParam String name) {
         var pokemon = pokemonService.findAll(name);
         return ResponseEntity.ok(pokemon);
@@ -49,6 +51,7 @@ public class PokemonController {
     }
 
     @GetMapping("/list")
+    @Secured("ROLE_ADMIN")
     public ArrayList<String> getPokemonList(@RequestParam int offset) {
         ArrayList<String> pokemonList = pokemonService.getList(offset);
         if(pokemonList != null){
@@ -63,12 +66,14 @@ public class PokemonController {
 
     @PutMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
+    @Secured("ROLE_ADMIN")
     public void updatePokemon(@PathVariable String id, @RequestBody Pokemon pokemon) {
         pokemonService.update(id, pokemon);
     }
 
     @DeleteMapping
     @ResponseStatus(HttpStatus.NO_CONTENT)
+    @Secured("ROLE_ADMIN")
     public void deletePokemon(@RequestParam(name = "id", required = false)  String id,
                               @RequestParam(name = "name", required = false)  String name) {
         if(id!= null) {
@@ -81,6 +86,7 @@ public class PokemonController {
 
     @DeleteMapping("/all/")
     @ResponseStatus(HttpStatus.NO_CONTENT)
+    @Secured("ROLE_ADMIN")
     public void deleteAllPokemon() {
         pokemonService.deleteAll();
     }
