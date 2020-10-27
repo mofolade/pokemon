@@ -1,12 +1,8 @@
 package com.example.pokemon.dto;
 
-import com.example.pokemon.entities.Ability;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 public class PokemonDto {
 
@@ -22,7 +18,7 @@ public class PokemonDto {
     private List<Object> game_indices;
 
     @JsonProperty("abilities")
-    //@JsonDeserialize(as= ArrayList.class, contentAs= Ability.class)
+    //@JsonDeserialize(as = ArrayList.class, contentAs= AbilityDto.class)
     private List<Object> abilities;
 
     @JsonProperty("location_area_encounters")

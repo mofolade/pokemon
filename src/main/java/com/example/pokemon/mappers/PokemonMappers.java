@@ -6,6 +6,6 @@ import org.mapstruct.Mapper;
 
 @Mapper(uses = {StringToListMapper.class})
 public interface PokemonMappers {
-    Pokemon pokemonDtoToMovie(PokemonDto movieDto);
-    PokemonDto pokemonToMovieDto(Pokemon pokemon);
+    Pokemon pokemonDtoToPokemon(PokemonDto pokemonDto);
+    PokemonDto pokemonToPokemonDto(Pokemon pokemon);
 }

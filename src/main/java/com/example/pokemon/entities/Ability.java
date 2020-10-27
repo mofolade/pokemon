@@ -1,52 +1,23 @@
 package com.example.pokemon.entities;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonProperty;
-
-import java.util.List;
-
 public class Ability {
 
-    /*@JsonProperty("abilities")
-    private List<String> abilities;*/
-    private List<String> ability;
-   /* private Boolean is_hidden;
-    private int slot;*/
+    private String url;
+    private String name;
 
-    @JsonCreator
-    public Ability(
-            @JsonProperty("ability") List<String> ability/*,
-            @JsonProperty("is_hidden") Boolean is_hidden,
-            @JsonProperty("slot") int slot*/) {
-        this.ability = ability;
-        /*this.is_hidden = is_hidden;
-        this.slot = slot;*/
+    public String getUrl() {
+        return url;
     }
 
-    public Ability() {
+    public void setUrl(String url) {
+        this.url = url;
     }
 
-    public List<String> getAbility() {
-        return ability;
+    public String getName() {
+        return name;
     }
 
-    public void setAbility(List<String> ability) {
-        this.ability = ability;
+    public void setName(String name) {
+        this.name = name;
     }
-
-   /* public Boolean getIs_hidden() {
-        return is_hidden;
-    }
-
-    public void setIs_hidden(Boolean is_hidden) {
-        this.is_hidden = is_hidden;
-    }
-
-    public int getSlot() {
-        return slot;
-    }
-
-    public void setSlot(int slot) {
-        this.slot = slot;
-    }*/
 }

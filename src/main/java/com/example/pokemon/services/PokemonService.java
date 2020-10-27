@@ -42,7 +42,7 @@ public class PokemonService {
                         pokemonDto.getHeight(),pokemonDto.getWeight(), pokemonDto.getGame_indices(),
                         pokemonDto.getAbilities(),pokemonDto.getLocation_area_encounters(),
                         pokemonDto.getTypes());*/
-                var pokemon = pokemonMappers.pokemonDtoToMovie(pokemonDto);
+                var pokemon = pokemonMappers.pokemonDtoToPokemon(pokemonDto);
                 pokemons.add(this.save(pokemon));
             }
         }
