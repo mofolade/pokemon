@@ -32,7 +32,7 @@ public class PokemonController {
 
     @GetMapping("/search")
     public ResponseEntity<List<Pokemon>> findByName(@RequestParam String name) {
-        var pokemon = pokemonService.findByUserNameRegex(name);
+        var pokemon = pokemonService.findByPokemonNameRegex(name);
         return ResponseEntity.ok(pokemon);
     }
 
@@ -41,7 +41,7 @@ public class PokemonController {
                                                           @RequestParam(name = "baseexperience")  int baseexperience,
                                                           @RequestParam(name = "height")  int height,
                                                           @RequestParam(name = "weight")  int weight) {
-        var pokemon = pokemonService.findByUserAttributes(name,baseexperience,height,weight);
+        var pokemon = pokemonService.findByPokemonAttributes(name,baseexperience,height,weight);
         return ResponseEntity.ok(pokemon);
     }
 

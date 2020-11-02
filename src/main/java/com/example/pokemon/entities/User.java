@@ -5,7 +5,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;
 import org.springframework.data.annotation.Id;
 
-import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.util.List;
@@ -16,20 +15,26 @@ public class User {
     private String id;
     @NotNull
     private String name;
-    @NotEmpty
+    @NotNull
+    private String city;
+    @NotNull
     private String username;
-    @NotEmpty @Size(min = 8, max = 12)
+    @Size(min = 8, max = 12)
     private String password;
+    @NotNull
+    private String reg_year;
     private List<String> roles;
 
     public User() {
 
     }
 
-    public User(String name, String username, String password, List<String> roles) {
+    public User(String name, String city, String username, String password, String reg_year, List<String> roles) {
         this.name = name;
+        this.city = city;
         this.username = username;
         this.password = password;
+        this.reg_year = reg_year;
         this.roles = roles;
     }
 
@@ -49,6 +54,14 @@ public class User {
         this.name = name;
     }
 
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
     public String getUsername() {
         return username;
     }
@@ -65,6 +78,14 @@ public class User {
     @JsonProperty
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public String getReg_year() {
+        return reg_year;
+    }
+
+    public void setReg_year(String reg_year) {
+        this.reg_year = reg_year;
     }
 
     public List<String> getRoles() {

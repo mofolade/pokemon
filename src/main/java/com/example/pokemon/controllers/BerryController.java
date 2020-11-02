@@ -27,6 +27,21 @@ public class BerryController {
         return ResponseEntity.ok(berry);
     }
 
+    @GetMapping("/search")
+    public ResponseEntity<List<Berry>> findByName(@RequestParam String name) {
+        var berry = berryService.findByBerryNameRegex(name);
+        return ResponseEntity.ok(berry);
+    }
+
+    @GetMapping("/filter")
+    public ResponseEntity<List<Berry>> findByAttributes(@RequestParam(name = "name") String name,
+                                                        @RequestParam(name = "max_harvest")  int max_harvest,
+                                                        @RequestParam(name = "size")  int size,
+                                                        @RequestParam(name = "growth_time")  int growth_time) {
+        var berry = berryService.findByBerryAttributes(name,max_harvest,size,growth_time);
+        return ResponseEntity.ok(berry);
+    }
+
     public void findBerriesByName(String name) {
         var berry = berryService.findAll(name);
         ResponseEntity.ok(berry);

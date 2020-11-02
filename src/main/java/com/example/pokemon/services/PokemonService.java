@@ -49,13 +49,13 @@ public class PokemonService {
     }
 
     @Cacheable(value = "pokemonCache")
-    public List<Pokemon> findByUserNameRegex(String name) {
+    public List<Pokemon> findByPokemonNameRegex(String name) {
         var pokemons = pokemonRepository.findByNameRegex(name);
         return pokemons;
     }
 
     @Cacheable(value = "pokemonCache")
-    public List<Pokemon> findByUserAttributes(String name,int baseexperience,int height,int weight) {
+    public List<Pokemon> findByPokemonAttributes(String name,int baseexperience,int height,int weight) {
         var pokemons = pokemonRepository.findByAttributes(name,baseexperience,height,weight);
         return pokemons;
     }

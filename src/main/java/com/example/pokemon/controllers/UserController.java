@@ -30,6 +30,21 @@ public class UserController {
         return ResponseEntity.ok(userService.findById(id));
     }
 
+    @GetMapping("/search")
+    public ResponseEntity<List<User>> findByName(@RequestParam String name) {
+        var user = userService.findByUserNameRegex(name);
+        return ResponseEntity.ok(user);
+    }
+
+    @GetMapping("/filter")
+    public ResponseEntity<List<User>> findByAttributes(@RequestParam(name = "name") String name,
+                                                       @RequestParam(name = "city")  String city,
+                                                       @RequestParam(name = "username")  String username,
+                                                       @RequestParam(name = "reg_year")  String reg_year) {
+        var user = userService.findByUserAttributes(name,city,username,reg_year);
+        return ResponseEntity.ok(user);
+    }
+
     @PostMapping
     @Secured("ROLE_ADMIN")
     public ResponseEntity<User> saveUser(@Validated @RequestBody User user) {

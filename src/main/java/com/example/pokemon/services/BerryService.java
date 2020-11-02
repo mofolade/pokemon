@@ -37,11 +37,20 @@ public class BerryService {
         return berries;
     }
 
+    public List<Berry> findByBerryNameRegex(String name) {
+        var berries = berryRepository.findByNameRegex(name);
+        return berries;
+    }
+
+    public List<Berry> findByBerryAttributes(String name, int max_harvest, int size, int growth_time) {
+        var berries = berryRepository.findByAttributes(name,max_harvest,size,growth_time);
+        return berries;
+    }
+
     public Berry save(Berry berry) {
         return berryRepository.save(berry);
     }
 
-    //@CachePut(value = "gameCache", key = "#id")
     public void update(String id, Berry berry) {
         if(!berryRepository.existsById(id)) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Kunde ej hitta berry");
@@ -71,7 +80,7 @@ public class BerryService {
         berryRepository.deleteAll();
     }
 
-    public List<Berry> getAllGame(){
+    public List<Berry> getAllBerry(){
         var berries = berryRepository.findAll();
         return berries;
     }

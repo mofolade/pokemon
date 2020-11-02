@@ -26,6 +26,16 @@ public class UserService {
         return userRepository.findAll();
     }
 
+    public List<User> findByUserNameRegex(String name) {
+        var users = userRepository.findByNameRegex(name);
+        return users;
+    }
+
+    public List<User> findByUserAttributes(String name,String city,String username,String reg_year) {
+        var users = userRepository.findByAttributes(name,city,username,reg_year);
+        return users;
+    }
+
     public User findById(String id) {
         return userRepository.findById(id).orElseThrow(() ->
                 new ResponseStatusException(HttpStatus.NOT_FOUND, String.format("Could not find the user by id %s.", id)));
