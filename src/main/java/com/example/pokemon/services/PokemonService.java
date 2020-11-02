@@ -23,7 +23,6 @@ public class PokemonService {
     private PokemonRepository pokemonRepository;
     @Autowired
     private PokemonConsumerService pokemonConsumerService;
-    //private Object pokemon;
     @Autowired
     private PokemonMappers pokemonMappers;
 

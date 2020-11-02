@@ -176,3 +176,70 @@
 68852 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: murkrow | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2b7a647b]
 69020 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: slowking | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7fd0425c]
 69195 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: misdreavus | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1c883883]
+998  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2316 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1008 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8508 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 7.99 seconds (JVM running for 9.148)
+873  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19056 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+882  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8489 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.04 seconds (JVM running for 8.855)
+925  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 6192 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+934  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8531 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.079 seconds (JVM running for 8.903)
+1028 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18224 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1038 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8936 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.358 seconds (JVM running for 9.289)
+987  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2652 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+999  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9182 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.72 seconds (JVM running for 9.604)
+954  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 13348 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+965  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9090 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.643 seconds (JVM running for 9.48)
+921  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17932 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+931  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9588 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.114 seconds (JVM running for 9.987)
+920  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10288 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+931  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8587 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.12 seconds (JVM running for 8.985)
+940  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19896 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+951  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8714 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.209 seconds (JVM running for 9.154)
+932  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 15092 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+942  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8682 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.168 seconds (JVM running for 9.054)
+972  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10544 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+982  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9375 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.895 seconds (JVM running for 9.779)
+1180 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 5336 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1189 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8864 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.206 seconds (JVM running for 9.282)
+1125 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 8964 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1137 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8981 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.362 seconds (JVM running for 9.41)
+937  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+947  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9030 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.565 seconds (JVM running for 9.515)
+265806 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+265807 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+268466 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+268467 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+272596 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 4.274 seconds (JVM running for 273.081)
+966  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+976  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9528 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.012 seconds (JVM running for 9.895)
+169607 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+169608 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+172254 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+172254 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+176090 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 3.931 seconds (JVM running for 176.458)
+906  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18720 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+916  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9516 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.065 seconds (JVM running for 9.885)
+953  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2044 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+964  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8730 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.243 seconds (JVM running for 9.092)
+880  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 21808 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+890  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8660 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.218 seconds (JVM running for 9.058)
+928  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 16732 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+939  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+8784 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.325 seconds (JVM running for 9.179)

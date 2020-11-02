@@ -1,43 +1,27 @@
-package com.example.pokemon.entities;
+package com.example.pokemon.dto;
 
-import lombok.Builder;
-import org.springframework.data.annotation.Id;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.io.Serializable;
 import java.util.List;
 
-@Builder
-public class Game implements Serializable {
-    private static final long serialVersionUID = 1L;
-
-    @Id
-    private String id;
+public class GameDto {
+    @JsonProperty("name")
     private String name;
+    @JsonProperty("names")
     private List<Object> names;
+    @JsonProperty("moves")
     private List<Object> moves;
+    @JsonProperty("pokemon_species")
     private List<Object> pokemon_species;
 
-    public Game() {
+    public GameDto() {
     }
 
-    public Game(String id, String name, List<Object> names, List<Object> moves, List<Object> pokemon_species) {
-        this.id = id;
+    public GameDto(String name, List<Object> names, List<Object> moves, List<Object> pokemon_species) {
         this.name = name;
         this.names = names;
         this.moves = moves;
         this.pokemon_species = pokemon_species;
-    }
-
-    public static long getSerialVersionUID() {
-        return serialVersionUID;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 
     public String getName() {
