@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/link")
 public class IndexController {
 
     static class CustomRepresentationModel extends RepresentationModel<CustomRepresentationModel> {

@@ -14,6 +14,26 @@ import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 @RequestMapping("/crud")
 public class CRUDController {
 
+    /*@GetMapping
+    public List<CrudInput> read(@RequestBody CrudInput crudInput) {
+        List<CrudInput> returnList = new ArrayList<CrudInput>();
+        returnList.add(crudInput);
+        return returnList;
+    }
+
+    @ResponseStatus(HttpStatus.CREATED)
+    @PostMapping
+    public HttpHeaders save(@RequestBody CrudInput crudInput) {
+        HttpHeaders httpHeaders = new HttpHeaders();
+        httpHeaders.setLocation(
+                linkTo(CRUDController.class).slash(crudInput.getTitle()).toUri());
+        return httpHeaders;
+    }
+
+    @DeleteMapping("/{id}")
+    public void delete(@PathVariable("id") long id) {
+        // delete
+    }*/
     @GetMapping
     public List<CrudInput> read(@RequestBody @Valid CrudInput crudInput) {
         List<CrudInput> returnList = new ArrayList<>();

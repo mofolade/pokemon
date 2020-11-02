@@ -1,5 +1,5 @@
 = RESTful Notes API Guide
-Baeldung;
+Pokemon;
 :doctype: book
 :icons: font
 :source-highlighter: highlightjs

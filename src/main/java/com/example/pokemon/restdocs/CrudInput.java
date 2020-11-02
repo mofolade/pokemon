@@ -3,30 +3,26 @@ package com.example.pokemon.restdocs;
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
-import java.net.URI;
-import java.util.Collections;
-import java.util.List;
 
 public class CrudInput {
 
     @NotNull
     private long id;
 
-    @NotBlank
+    //@NotBlank
     private String title;
 
     private String body;
 
-    private List<URI> tagUris;
+    //private List<URI> tagUris;
 
     @JsonCreator
-    public CrudInput(@JsonProperty("id") long id, @JsonProperty("title") String title, @JsonProperty("body") String body, @JsonProperty("tags") List<URI> tagUris) {
+    public CrudInput(@JsonProperty("id") long id, @JsonProperty("title") String title, @JsonProperty("body") String body/*, @JsonProperty("tags") List<URI> tagUris*/) {
         this.id=id;
         this.title = title;
         this.body = body;
-        this.tagUris = tagUris == null ? Collections.<URI> emptyList() : tagUris;
+        //this.tagUris = tagUris == null ? Collections.<URI> emptyList() : tagUris;
     }
 
     public String getTitle() {
@@ -52,7 +48,7 @@ public class CrudInput {
     public void setBody(String body) {
         this.body = body;
     }
-
+/*
     public void setTagUris(List<URI> tagUris) {
         this.tagUris = tagUris;
     }
@@ -60,6 +56,6 @@ public class CrudInput {
     @JsonProperty("tags")
     public List<URI> getTagUris() {
         return this.tagUris;
-    }
+    }*/
 
 }

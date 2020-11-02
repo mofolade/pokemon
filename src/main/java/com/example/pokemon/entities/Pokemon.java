@@ -1,10 +1,12 @@
 package com.example.pokemon.entities;
 
+import lombok.Builder;
 import org.springframework.data.annotation.Id;
 
 import java.io.Serializable;
 import java.util.List;
 
+@Builder
 public class Pokemon implements Serializable {
     private static final long serialVersionUID = 1L;
 

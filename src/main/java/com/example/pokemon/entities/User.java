@@ -2,6 +2,7 @@ package com.example.pokemon.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import lombok.Builder;
 import org.springframework.data.annotation.Id;
 
 import javax.validation.constraints.NotEmpty;
@@ -9,6 +10,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.util.List;
 
+@Builder
 public class User {
     @Id
     private String id;
