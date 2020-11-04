@@ -26,6 +26,10 @@ public class PokemonService {
     @Autowired
     private PokemonMappers pokemonMappers;
 
+    /*public List<Pokemon> findPokemons() {
+        return pokemonRepository.findAll();
+    }*/
+
     @Cacheable(value = "pokemonCache", key = "#name")
     public List<Pokemon> findAll(String name) {
         var pokemons = pokemonRepository.findAll();

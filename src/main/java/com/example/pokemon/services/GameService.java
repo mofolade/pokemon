@@ -36,6 +36,10 @@ public class GameService {
         return games;
     }
 
+    public List<Game> findByGameNameRegex(String name) {
+        return gameRepository.findByNameRegex(name);
+    }
+
     public Game save(Game game) {
         return gameRepository.save(game);
     }

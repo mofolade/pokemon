@@ -2,6 +2,10 @@ package com.example.pokemon.controllers;
 
 import com.example.pokemon.entities.Pokemon;
 import com.example.pokemon.services.PokemonService;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.media.Content;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.HttpStatus;
@@ -23,19 +27,32 @@ public class PokemonController {
     @Autowired
     private PokemonService pokemonService;
 
+    /*@GetMapping
+    @Secured("ROLE_USER")
+    public ResponseEntity<List<Pokemon>> findAll() {
+        var pokemons = pokemonService.findPokemons();
+        return ResponseEntity.ok(pokemons);
+    }*/
+
+    @Operation(summary = "Find pokemons with a name.")
     @GetMapping
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
     public ResponseEntity<List<Pokemon>> findPokemons(@RequestParam String name) {
         var pokemon = pokemonService.findAll(name);
         return ResponseEntity.ok(pokemon);
     }
 
+    @Operation(summary = "Pokemon search by name detail.")
     @GetMapping("/search")
     public ResponseEntity<List<Pokemon>> findByName(@RequestParam String name) {
         var pokemon = pokemonService.findByPokemonNameRegex(name);
         return ResponseEntity.ok(pokemon);
     }
 
+    @Operation(summary = "Pokemon search by name detail, baseexperience, height, weight.")
     @GetMapping("/filter")
     public ResponseEntity<List<Pokemon>> findByAttributes(@RequestParam(name = "name") String name,
                                                           @RequestParam(name = "baseexperience")  int baseexperience,
@@ -45,13 +62,18 @@ public class PokemonController {
         return ResponseEntity.ok(pokemon);
     }
 
+    @Operation(summary = "Pokemon search by name.")
     public void findPokemonsByName(String name) {
         var pokemon = pokemonService.findAll(name);
         ResponseEntity.ok(pokemon);
     }
 
+    @Operation(summary = "Save pokemons. 100 pokemons withpagination.")
     @GetMapping("/list")
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
     public ArrayList<String> getPokemonList(@RequestParam int offset) {
         ArrayList<String> pokemonList = pokemonService.getList(offset);
         if(pokemonList != null){
@@ -62,18 +84,24 @@ public class PokemonController {
         return pokemonList;
     }
 
-    //{name=espeon, url=https://pokeapi.co/api/v2/pokemon/196/}
-
+    @Operation(summary = "Pokemon search by id.")
     @PutMapping("/{id}")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void updatePokemon(@PathVariable String id, @RequestBody Pokemon pokemon) {
         pokemonService.update(id, pokemon);
     }
 
+    @Operation(summary = "Pokemon delete by id or name.")
     @DeleteMapping
-    @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deletePokemon(@RequestParam(name = "id", required = false)  String id,
                               @RequestParam(name = "name", required = false)  String name) {
         if(id!= null) {
@@ -84,9 +112,15 @@ public class PokemonController {
         }
     }
 
+    @Operation(summary = "Delete all pokemons.")
     @DeleteMapping("/all/")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "204", description = "Deleted pokemon.", content = @Content),
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content),
+            @ApiResponse(responseCode = "404", description = "Couldn't find pokemon.", content = @Content)
+    })
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteAllPokemon() {
         pokemonService.deleteAll();
     }

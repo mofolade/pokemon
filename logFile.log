@@ -1,271 +1,178 @@
-1045 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10264 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1068 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-11213 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.672 seconds (JVM running for 11.569)
-1001 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10416 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1012 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-10434 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.922 seconds (JVM running for 10.794)
-1242 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 5340 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1253 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9768 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.086 seconds (JVM running for 10.094)
-1000 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 12784 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1013 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-11021 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.486 seconds (JVM running for 11.374)
-977  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 3912 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-989  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9700 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.218 seconds (JVM running for 10.014)
-1102 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 20180 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1115 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-10041 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.408 seconds (JVM running for 10.35)
-1307 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 16184 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1317 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-10612 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.072 seconds (JVM running for 11.016)
-995  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 12240 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1006 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-10217 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.711 seconds (JVM running for 10.591)
-993  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 424 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1004 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9051 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.554 seconds (JVM running for 9.379)
-1071 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 20388 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1083 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-11103 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.513 seconds (JVM running for 11.434)
-995  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18124 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1005 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9335 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.817 seconds (JVM running for 9.649)
-1383 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 7256 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1403 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-11119 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.259 seconds (JVM running for 11.552)
-1083 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 6412 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1099 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-10365 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.831 seconds (JVM running for 10.728)
-1007 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19528 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1017 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9017 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.497 seconds (JVM running for 9.373)
-1074 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 7400 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1087 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9462 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.867 seconds (JVM running for 9.744)
-1768836 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: wobbuffet | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@492fa367]
-1792597 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@672eb629]
-1131 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 21664 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1142 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9093 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.513 seconds (JVM running for 9.378)
-894  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 22204 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-904  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8463 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.0 seconds (JVM running for 8.778)
-980  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 8664 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-989  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8930 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.388 seconds (JVM running for 9.229)
-906  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 5836 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-915  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8800 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.3 seconds (JVM running for 9.115)
-1090 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17196 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1100 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8935 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.292 seconds (JVM running for 9.297)
-960  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 7356 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-970  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9322 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.836 seconds (JVM running for 9.643)
-911  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 1272 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-922  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8803 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.356 seconds (JVM running for 9.104)
-1016 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17320 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1028 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9356 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.837 seconds (JVM running for 9.67)
-39420 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: wobbuffet | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@42a2b3dc]
-52241 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6e92b1e2]
-1066 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 21540 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1076 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8809 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.258 seconds (JVM running for 9.107)
-15413 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: wobbuffet | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6a46fad9]
-23271 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@36b4d9be]
-51547 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: electrode | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4bb41a07]
-51768 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: exeggcute | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@59bc007f]
-51968 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: exeggutor | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4f676b1e]
-52171 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cubone | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1c57227d]
-52320 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: marowak | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@448b4957]
-52482 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hitmonlee | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@129ee148]
-52772 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hitmonchan | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@9ef49a6]
-53010 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lickitung | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1310853e]
-53210 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: koffing | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@316c9812]
-53410 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: weezing | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3a574c12]
-53658 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: rhyhorn | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@24be5d36]
-53851 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: rhydon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@63940419]
-54025 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chansey | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2f23f829]
-54225 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: tangela | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@35bd60da]
-54416 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kangaskhan | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@114b729c]
-54620 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: horsea | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@618f0a08]
-54798 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: seadra | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@20de3056]
-54984 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: goldeen | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@55baa7bb]
-55177 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: seaking | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@f462af4]
-55365 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: staryu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5fd88c16]
-55543 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: starmie | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@9d3cb8]
-55725 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mr-mime | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1acc0341]
-55915 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: scyther | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@506e90d6]
-56073 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jynx | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@46cfe66f]
-56265 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: electabuzz | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7feb0dc8]
-56469 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: magmar | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6e924e8f]
-56638 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: pinsir | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6c9deb08]
-56821 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: tauros | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@543a5c01]
-57022 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: magikarp | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1d24f39b]
-57217 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: gyarados | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1d6883b1]
-57382 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lapras | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4865cbd7]
-57620 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ditto | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@78c9d79f]
-57788 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: eevee | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@120abc61]
-57938 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: vaporeon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@331dd158]
-58127 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jolteon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2d4aea9e]
-58290 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: flareon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4b4e048e]
-58470 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: porygon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7e37817d, com.example.pokemon.entities.Pokemon@2420214e]
-58659 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: omanyte | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@57b2e6d0]
-58821 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: omastar | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@78743178]
-58981 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kabuto | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4ccbdc7, com.example.pokemon.entities.Pokemon@11d9931f]
-59148 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kabutops | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@611efca7]
-59302 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: aerodactyl | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@df50eff]
-59497 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: snorlax | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@34aa60bc]
-59685 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: articuno | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@61acc4a4]
-59844 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: zapdos | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@35cece90]
-60006 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: moltres | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@38846a04]
-60172 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dratini | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5e4df2e9]
-60331 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dragonair | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@48874b27]
-60521 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dragonite | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7daa2462]
-60683 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mewtwo | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@8ece49a]
-60865 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mew | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@48030237]
-61020 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chikorita | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@729378ac]
-61183 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: bayleef | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1cc227ca]
-61348 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: meganium | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1efc61a0]
-61518 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cyndaquil | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@61ab1d1b]
-61677 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: quilava | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@67f05170]
-61845 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: typhlosion | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5d04da4d]
-62015 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: totodile | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7ce67a01]
-62210 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: croconaw | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@129f36db]
-62381 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: feraligatr | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@24255f56]
-62583 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sentret | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5ebab5b1]
-62746 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: furret | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7ab42b94]
-62903 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hoothoot | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@730796e2]
-63068 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: noctowl | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7901a8d4]
-63230 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ledyba | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@57bf6cd7]
-63414 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ledian | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@50ef6c0b]
-63569 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: spinarak | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2a396180]
-63749 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ariados | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@a7a911c]
-63904 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: crobat | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6a1ce009]
-64091 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chinchou | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@fcc5e36]
-64253 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lanturn | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4eb43f1e]
-64442 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: pichu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@606167d3]
-64616 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cleffa | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@45963da4]
-64785 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: igglybuff | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6f34918a]
-64945 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: togepi | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2b376b2c]
-65122 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: togetic | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@799960c2]
-65302 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: natu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@26268d58]
-65485 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: xatu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@32d71059]
-65641 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mareep | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3e0ba8ef]
-65823 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: flaaffy | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@29ed6da5]
-65991 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ampharos | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1b593daf]
-66151 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: bellossom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@9043f00]
-66323 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: marill | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6fdff22d, com.example.pokemon.entities.Pokemon@5d5523d7]
-66490 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: azumarill | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5999cde0]
-66665 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sudowoodo | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4f59c2dd]
-66855 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: politoed | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2e4cbce6]
-67016 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hoppip | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@32caf2d9]
-67185 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: skiploom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@30cd0eab]
-67353 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jumpluff | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@19c0ba46]
-67504 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: aipom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@22541355]
-67678 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sunkern | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@dfd8372]
-67847 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sunflora | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@c8ea96e]
-68013 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: yanma | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4e6efb78]
-68172 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: wooper | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@12619e99]
-68322 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: quagsire | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@26e7cd35]
-68520 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: espeon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@58b19225]
-68680 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: umbreon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4c7ead82]
-68852 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: murkrow | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2b7a647b]
-69020 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: slowking | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7fd0425c]
-69195 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: misdreavus | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1c883883]
-998  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2316 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1008 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8508 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 7.99 seconds (JVM running for 9.148)
-873  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19056 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-882  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8489 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.04 seconds (JVM running for 8.855)
-925  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 6192 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-934  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8531 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.079 seconds (JVM running for 8.903)
-1028 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18224 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1038 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8936 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.358 seconds (JVM running for 9.289)
-987  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2652 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-999  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9182 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.72 seconds (JVM running for 9.604)
-954  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 13348 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-965  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9090 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.643 seconds (JVM running for 9.48)
-921  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17932 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-931  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9588 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.114 seconds (JVM running for 9.987)
-920  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10288 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-931  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8587 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.12 seconds (JVM running for 8.985)
-940  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19896 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-951  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8714 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.209 seconds (JVM running for 9.154)
-932  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 15092 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-942  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8682 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.168 seconds (JVM running for 9.054)
-972  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10544 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-982  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9375 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.895 seconds (JVM running for 9.779)
-1180 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 5336 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1189 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8864 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.206 seconds (JVM running for 9.282)
-1125 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 8964 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1137 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8981 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.362 seconds (JVM running for 9.41)
-937  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-947  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9030 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.565 seconds (JVM running for 9.515)
-265806 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-265807 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-268466 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 14064 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-268467 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-272596 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 4.274 seconds (JVM running for 273.081)
-966  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-976  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9528 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.012 seconds (JVM running for 9.895)
-169607 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-169608 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-172254 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19876 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-172254 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-176090 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 3.931 seconds (JVM running for 176.458)
-906  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18720 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-916  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9516 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.065 seconds (JVM running for 9.885)
-953  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2044 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-964  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8730 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.243 seconds (JVM running for 9.092)
-880  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 21808 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-890  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8660 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.218 seconds (JVM running for 9.058)
-928  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 16732 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-939  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8784 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.325 seconds (JVM running for 9.179)
-977  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18740 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1177 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 7484 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1206 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+11250 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.58 seconds (JVM running for 11.698)
+150986 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1b5962cf]
+163927 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@c37d58, com.example.pokemon.entities.Pokemon@2e539d41, com.example.pokemon.entities.Pokemon@28263089, com.example.pokemon.entities.Pokemon@412bafc7, com.example.pokemon.entities.Pokemon@3a789eba, com.example.pokemon.entities.Pokemon@80bd098, com.example.pokemon.entities.Pokemon@2a11c3c0, com.example.pokemon.entities.Pokemon@4d5a675e, com.example.pokemon.entities.Pokemon@faa3810, com.example.pokemon.entities.Pokemon@bbdde3f, com.example.pokemon.entities.Pokemon@604de030, com.example.pokemon.entities.Pokemon@58e52cc9, com.example.pokemon.entities.Pokemon@406b9095, com.example.pokemon.entities.Pokemon@2ff38619]
+1001 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 2080 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1011 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9806 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.281 seconds (JVM running for 10.246)
+81526 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: electrode | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@68addf26]
+81961 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: exeggcute | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7544e33f]
+82378 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: exeggutor | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7016523b]
+82676 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cubone | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@65fd8251]
+82969 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: marowak | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5ac2c016]
+83275 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hitmonlee | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@59338cc7]
+83543 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hitmonchan | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3e8c381]
+83802 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lickitung | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4f843796]
+84064 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: koffing | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@b0e8d41]
+84327 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: weezing | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@155c8207]
+84577 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: rhyhorn | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@309ebc22]
+84813 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: rhydon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1ab7c037]
+85025 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chansey | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@77720684]
+85264 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: tangela | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@53f83bdd]
+85508 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kangaskhan | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@48b800a9]
+85738 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: horsea | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@73bd54b8]
+85994 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: seadra | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5e08122f]
+86224 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: goldeen | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@52628596]
+86427 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: seaking | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@24042cd3]
+86632 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: staryu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2fa748de]
+86851 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: starmie | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@460cf787]
+87063 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mr-mime | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4514fb30]
+87269 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: scyther | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@89a8eaa]
+87476 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jynx | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5591a654]
+87664 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: electabuzz | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5309649e]
+87872 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: magmar | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4090e1f]
+88062 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: pinsir | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@cee78e6]
+88281 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: tauros | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7141ffd9]
+88473 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: magikarp | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@56aed1b7]
+88669 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: gyarados | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@190c634b]
+88867 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lapras | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@238dc1e5]
+89071 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ditto | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6e5941ee]
+89248 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: eevee | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6e9bd050]
+89447 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: vaporeon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7db99740]
+89630 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jolteon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@ee2ff25]
+89847 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: flareon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1e14cda2]
+90043 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: porygon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@51d35045, com.example.pokemon.entities.Pokemon@17ebb049]
+90239 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: omanyte | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@684a3d3d]
+90446 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: omastar | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@547bfdd2]
+90634 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kabuto | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@479f23e3, com.example.pokemon.entities.Pokemon@3926cc6a]
+90829 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: kabutops | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4d504a0b]
+91021 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: aerodactyl | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7ab728fb]
+91224 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: snorlax | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@77b76a50]
+91419 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: articuno | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@73c9b154]
+91598 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: zapdos | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@19ebf096]
+91790 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: moltres | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2caad905]
+91995 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dratini | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2a73cf62]
+92180 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dragonair | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@20df2013]
+92366 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: dragonite | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3ba0ca2f]
+92558 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mewtwo | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6cc10b8c]
+92749 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mew | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@457d5f94]
+92927 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chikorita | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@57df5fd4]
+93123 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: bayleef | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4f0d1a8a]
+93301 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: meganium | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6a09582a]
+93479 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cyndaquil | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4531b1d9]
+93658 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: quilava | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2f237efc]
+93831 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: typhlosion | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1e1d9b47]
+94012 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: totodile | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@18a0920d]
+94180 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: croconaw | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7a188d2e]
+94386 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: feraligatr | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@54340478]
+94564 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sentret | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2558429b]
+94751 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: furret | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@78e0e1b9]
+94935 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hoothoot | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7b0e740d]
+95115 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: noctowl | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2fb969ea]
+95280 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ledyba | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@769d506]
+95462 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ledian | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7bf4a9cd]
+95652 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: spinarak | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4c8bd594]
+95839 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ariados | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1b7f5138]
+96032 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: crobat | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@70968884]
+96198 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: chinchou | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6ebeac47]
+96374 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: lanturn | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4b727134]
+96543 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: pichu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@533b447f]
+96730 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: cleffa | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3f0ea073]
+96917 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: igglybuff | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@21690d3]
+97094 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: togepi | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@55d257a]
+97278 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: togetic | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@62836461]
+97442 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: natu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4d24ea04]
+97607 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: xatu | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3da46083]
+97782 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: mareep | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@7a651daa]
+97962 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: flaaffy | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@568130b0]
+98127 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: ampharos | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1a04068c]
+98301 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: bellossom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@406fce7c]
+98493 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: marill | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@68c42b52, com.example.pokemon.entities.Pokemon@5f263fd0]
+98673 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: azumarill | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2b7953a3]
+98849 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sudowoodo | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4768fd68]
+99025 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: politoed | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@62502bad]
+99196 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: hoppip | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@20eee063]
+99369 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: skiploom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@4f5425b3]
+99557 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: jumpluff | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@702bb9d]
+99736 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: aipom | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5438b505]
+99909 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sunkern | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@292e6ec7]
+100080 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: sunflora | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@471bf867]
+100246 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: yanma | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2ad3a1eb]
+100416 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: wooper | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@147e7996]
+100607 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: quagsire | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3a1ff981]
+100774 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: espeon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@57568bf6]
+100972 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: umbreon | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@71cb7ee1]
+101154 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: murkrow | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6cb7c620]
+101331 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: slowking | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@33e1ecc6]
+101503 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: misdreavus | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@49460003]
+963  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 1172 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+974  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+1228 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 1028 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1239 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+975  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19000 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
 986  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9337 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.783 seconds (JVM running for 9.828)
-1820265 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18740 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1820266 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-1031 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 20888 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1047 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9410 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.848 seconds (JVM running for 9.835)
-975  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 22104 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-985  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8703 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.213 seconds (JVM running for 9.082)
-1024 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 6244 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1038 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8870 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.375 seconds (JVM running for 9.321)
-929  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 12416 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-939  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9012 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.515 seconds (JVM running for 9.443)
-912  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 15792 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-920  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8955 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.492 seconds (JVM running for 9.411)
-1003 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 13968 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-1014 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-8796 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.281 seconds (JVM running for 9.225)
-981  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 18964 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
-992  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
-9031 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.526 seconds (JVM running for 9.466)
+1142 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10952 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1163 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10142 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.593 seconds (JVM running for 10.484)
+48648 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@1b229cc8, com.example.pokemon.entities.Pokemon@a937610, com.example.pokemon.entities.Pokemon@6479993d, com.example.pokemon.entities.Pokemon@5d604300, com.example.pokemon.entities.Pokemon@5c7556d4, com.example.pokemon.entities.Pokemon@289b3cb8, com.example.pokemon.entities.Pokemon@23688a2c, com.example.pokemon.entities.Pokemon@38e1f73a, com.example.pokemon.entities.Pokemon@478d713a, com.example.pokemon.entities.Pokemon@5433a0f5, com.example.pokemon.entities.Pokemon@68e38dcf, com.example.pokemon.entities.Pokemon@5aec28f4, com.example.pokemon.entities.Pokemon@32649d18, com.example.pokemon.entities.Pokemon@fafd40c]
+1032 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 12804 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1043 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10980 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.483 seconds (JVM running for 11.41)
+55837 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@448b5698, com.example.pokemon.entities.Pokemon@79f3f965, com.example.pokemon.entities.Pokemon@236d148d, com.example.pokemon.entities.Pokemon@567b9cea, com.example.pokemon.entities.Pokemon@6b338f40, com.example.pokemon.entities.Pokemon@24e68b5c, com.example.pokemon.entities.Pokemon@14e9cec0, com.example.pokemon.entities.Pokemon@58619e5, com.example.pokemon.entities.Pokemon@22fe5d3f, com.example.pokemon.entities.Pokemon@9042c62, com.example.pokemon.entities.Pokemon@75c55630, com.example.pokemon.entities.Pokemon@6cd2f0b, com.example.pokemon.entities.Pokemon@41a97d01, com.example.pokemon.entities.Pokemon@ac37914]
+95859 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: EXPIRED | Old value: [com.example.pokemon.entities.Pokemon@3e1881e5, com.example.pokemon.entities.Pokemon@30df7856, com.example.pokemon.entities.Pokemon@34e0ea95, com.example.pokemon.entities.Pokemon@71e2726d, com.example.pokemon.entities.Pokemon@b0fd21d, com.example.pokemon.entities.Pokemon@405906e2, com.example.pokemon.entities.Pokemon@735ef83e, com.example.pokemon.entities.Pokemon@11cd8d22, com.example.pokemon.entities.Pokemon@64272a3c, com.example.pokemon.entities.Pokemon@6cc15e4c, com.example.pokemon.entities.Pokemon@685ad4e2, com.example.pokemon.entities.Pokemon@1583f056, com.example.pokemon.entities.Pokemon@48a85e10, com.example.pokemon.entities.Pokemon@2e7d4a77] | New value: null
+95929 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2f3fd36d, com.example.pokemon.entities.Pokemon@f324df7, com.example.pokemon.entities.Pokemon@503c8466, com.example.pokemon.entities.Pokemon@264d8f87, com.example.pokemon.entities.Pokemon@198f2a43, com.example.pokemon.entities.Pokemon@21fe830c, com.example.pokemon.entities.Pokemon@3f7cfe2, com.example.pokemon.entities.Pokemon@b171552, com.example.pokemon.entities.Pokemon@238ecdef, com.example.pokemon.entities.Pokemon@7adc5e99, com.example.pokemon.entities.Pokemon@24aa5b22, com.example.pokemon.entities.Pokemon@31be2c0c, com.example.pokemon.entities.Pokemon@6d48874c, com.example.pokemon.entities.Pokemon@8b9f3a]
+1320 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 19448 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1331 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9872 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.18 seconds (JVM running for 10.329)
+1022 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10796 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1032 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9703 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.146 seconds (JVM running for 10.158)
+1086 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 11580 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1097 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10393 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.798 seconds (JVM running for 10.77)
+1151 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 20092 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1161 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+11211 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.647 seconds (JVM running for 11.619)
+1185 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 6048 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1197 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10452 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.856 seconds (JVM running for 10.852)
+1020 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 16416 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1031 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10058 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.543 seconds (JVM running for 10.416)
+1126 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17844 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1138 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10255 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.696 seconds (JVM running for 10.663)
+978  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 9676 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+988  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9995 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.489 seconds (JVM running for 10.368)
+1396 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 17800 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1415 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+12615 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 11.987 seconds (JVM running for 13.081)
+1039 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 7232 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1048 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10478 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.932 seconds (JVM running for 10.918)
+1088 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 15704 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1098 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+9394 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 8.811 seconds (JVM running for 9.807)
+1048 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 11240 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1058 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10586 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.027 seconds (JVM running for 10.963)
+1174 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 12544 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1190 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+11906 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 11.338 seconds (JVM running for 12.323)
+1208 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 13148 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1222 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+11474 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.832 seconds (JVM running for 11.905)
+1384 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 8288 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1397 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+13269 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 12.528 seconds (JVM running for 13.787)
+974  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10152 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+984  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10751 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.225 seconds (JVM running for 11.093)
+65416 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: it | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@3760f37a, com.example.pokemon.entities.Pokemon@25a9156f, com.example.pokemon.entities.Pokemon@7cfaca1f, com.example.pokemon.entities.Pokemon@ebf28a5, com.example.pokemon.entities.Pokemon@3292f39a, com.example.pokemon.entities.Pokemon@5f241e35, com.example.pokemon.entities.Pokemon@76904644, com.example.pokemon.entities.Pokemon@bfcf202, com.example.pokemon.entities.Pokemon@1a1c91fc, com.example.pokemon.entities.Pokemon@7d98629c, com.example.pokemon.entities.Pokemon@7d3fb532, com.example.pokemon.entities.Pokemon@1a36ac66, com.example.pokemon.entities.Pokemon@38738bd8, com.example.pokemon.entities.Pokemon@7cad2a13]
+72078 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2e879936]
+302159 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: EXPIRED | Old value: [com.example.pokemon.entities.Pokemon@7eacbf4c] | New value: null
+302183 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5d8d52b0]
+374966 [Ehcache [_default_]-2] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: EXPIRED | Old value: [com.example.pokemon.entities.Pokemon@538d6876] | New value: null
+374991 [Ehcache [_default_]-2] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@31f95b53]

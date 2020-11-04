@@ -2,6 +2,10 @@ package com.example.pokemon.controllers;
 
 import com.example.pokemon.entities.Berry;
 import com.example.pokemon.services.BerryService;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.media.Content;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.HttpStatus;
@@ -20,19 +24,25 @@ public class BerryController {
     @Autowired
     private BerryService berryService;
 
+    @Operation(summary = "Berry search by name.")
     @GetMapping
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
     public ResponseEntity<List<Berry>> findBerries(@RequestParam String name) {
         var berry = berryService.findAll(name);
         return ResponseEntity.ok(berry);
     }
 
+    @Operation(summary = "Berry search by name detail.")
     @GetMapping("/search")
     public ResponseEntity<List<Berry>> findByName(@RequestParam String name) {
         var berry = berryService.findByBerryNameRegex(name);
         return ResponseEntity.ok(berry);
     }
 
+    @Operation(summary = "Berry search by name detail, max_harvest, size, growth_time.")
     @GetMapping("/filter")
     public ResponseEntity<List<Berry>> findByAttributes(@RequestParam(name = "name") String name,
                                                         @RequestParam(name = "max_harvest")  int max_harvest,
@@ -47,13 +57,18 @@ public class BerryController {
         ResponseEntity.ok(berry);
     }
 
+    @Operation(summary = "Berry search by id.")
     @PutMapping("/{id}")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void updateBerry(@PathVariable String id, @RequestBody Berry berry) {
         berryService.update(id, berry);
     }
 
+    @Operation(summary = "Berry delete by id or name.")
     @DeleteMapping
     @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
@@ -67,9 +82,13 @@ public class BerryController {
         }
     }
 
+    @Operation(summary = "Delete all berries.")
     @DeleteMapping("/all/")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
     @Secured("ROLE_ADMIN")
+    @ApiResponses(value = {
+            @ApiResponse(responseCode = "401", description = "Admin authentication is required.", content = @Content)
+    })
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteAllBerries() {
         berryService.deleteAll();
     }
