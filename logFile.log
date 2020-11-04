@@ -176,3 +176,13 @@
 302183 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@5d8d52b0]
 374966 [Ehcache [_default_]-2] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: EXPIRED | Old value: [com.example.pokemon.entities.Pokemon@538d6876] | New value: null
 374991 [Ehcache [_default_]-2] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@31f95b53]
+978  [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 9516 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+989  [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10857 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 10.354 seconds (JVM running for 11.285)
+51069 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@15233dc2]
+1001 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Starting PokemonApplication on LAPTOP-N0BBULQP with PID 10776 (D:\dev\pokemon\target\classes started by mofol in D:\dev\pokemon)
+1011 [restartedMain] INFO  c.e.pokemon.PokemonApplication - No active profile set, falling back to default profiles: default
+10149 [restartedMain] INFO  c.e.pokemon.PokemonApplication - Started PokemonApplication in 9.595 seconds (JVM running for 10.572)
+15360 [Ehcache [_default_]-0] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@2a3e479d]
+70168 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: EXPIRED | Old value: [com.example.pokemon.entities.Pokemon@673303eb] | New value: null
+70195 [Ehcache [_default_]-1] INFO  c.e.pokemon.config.CacheLogger - Key: SimpleKey [it,159,15,498] | EventType: CREATED | Old value: null | New value: [com.example.pokemon.entities.Pokemon@6b9d1261]
