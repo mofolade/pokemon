@@ -52,7 +52,7 @@ public class PokemonController {
         return ResponseEntity.ok(pokemon);
     }
 
-    @Operation(summary = "Pokemon search by name detail, baseexperience, height, weight.")
+    @Operation(summary = "Pokemon search by name detail, baseexperience, height, weight. /api/v1/pokemons/filter?name=it&baseexperience=159&height=15&weight=498")
     @GetMapping("/filter")
     public ResponseEntity<List<Pokemon>> findByAttributes(@RequestParam(name = "name") String name,
                                                           @RequestParam(name = "baseexperience")  int baseexperience,
@@ -68,7 +68,8 @@ public class PokemonController {
         ResponseEntity.ok(pokemon);
     }
 
-    @Operation(summary = "Save pokemons. 100 pokemons withpagination.")
+    @Operation(summary = "Save pokemons. 100 pokemons withpagination. localhost:8080/api/v1/pokemons/list?offset=100 next:" +
+            " localhost:8080/api/v1/pokemons/list?offset=200")
     @GetMapping("/list")
     @Secured("ROLE_ADMIN")
     @ApiResponses(value = {

@@ -1,7 +1,6 @@
 package com.example.pokemon.repository;
 
 import com.example.pokemon.entities.Pokemon;
-import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
@@ -19,6 +18,5 @@ public interface PokemonRepository  extends MongoRepository<Pokemon, String> {
 
     @Query("{'name': {$regex: ?0 }, 'base_experience' : ?1 , 'height' : ?2 , 'weight' : ?3 }")
     List<Pokemon> findByAttributes(String name,int baseexperience,int height,int weight);
-   // List<Pokemon> findByUserNameRegex(String name);
 
 }
